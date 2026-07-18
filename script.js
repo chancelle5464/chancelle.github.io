@@ -151,7 +151,7 @@ if(year) {
 
 
     year.innerHTML = 
-    `© ${new Date().getFullYear()} YOUR NAME. All rights reserved.`;
+    `© ${new Date().getFullYear()} Fifame Chancelle Ahinon. All rights reserved.`;
 
 
 }
