@@ -501,9 +501,17 @@ header {
 
 }
 
-.terminal-red{}
-.terminal-yellow{}
-.terminal-green{}
+.terminal-red {
+    background:#ff5f56;
+}
+
+.terminal-yellow {
+    background:#ffbd2e;
+}
+
+.terminal-green {
+    background:#27c93f;
+}
 .terminal-header p{
 
     margin-left:10px;
