@@ -115,7 +115,7 @@ The portfolio includes:
 ---
 
 # 📂 Project Structure
-portfolio/
+# chancelle.github.io/
 │
 ├── index.html
 ├── style.css
