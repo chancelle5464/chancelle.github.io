@@ -1835,3 +1835,23 @@ header.scrolled {
     color: var(--primary-color);
 
 }
+
+
+
+.terminal-command {
+    color: #9ca3af;
+    font-family: "JetBrains Mono", monospace;
+    margin-bottom: 5px;
+}
+
+.terminal-value {
+    color: #8ef5b2;
+    font-family: "JetBrains Mono", monospace;
+    margin-bottom: 18px;
+    line-height: 1.8;
+}
+
+.terminal-value span {
+    color: var(--primary-color);
+    font-weight: 700;
+}
