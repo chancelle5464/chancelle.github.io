@@ -343,6 +343,8 @@ header {
 
     box-shadow:0 20px 60px rgba(0,0,0,.45);
 
+    transition:.3s ease;
+
 }
 
 .identity-card:hover{
@@ -351,7 +353,6 @@ header {
 
     box-shadow:0 25px 70px rgba(0,180,216,.15);
 
-    transition:.3s ease;
 
 }
 
@@ -376,6 +377,8 @@ header {
 
     pointer-events:none;
 
+    z-index:0;
+
 }
 
 .terminal-header{
@@ -389,6 +392,11 @@ header {
     padding:15px 20px;
 
     background:#111827;
+
+    position:relative;
+
+    z-index:1;
+
 
 }
 
@@ -426,6 +434,11 @@ header {
     
     background:#0b1220;
 
+    position:relative;
+
+    z-index:1;
+
+
 }
 
 .terminal-body pre{
@@ -443,6 +456,11 @@ header {
 }
 
 
+.terminal-body span{
+
+    color:#00b4d8;
+
+}
 
 
 .hero{
@@ -461,9 +479,7 @@ header {
 
     margin:auto;
 
-    padding-top:150px;
-
-    padding:120px 8% 80px;
+    padding:150px 8% 80px;
 
 }
 
@@ -482,6 +498,31 @@ header {
     justify-content:center;
 
     align-items:center;
+
+}
+
+
+.eyebrow{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    color:var(--primary-color);
+
+    font-size:.9rem;
+
+    font-weight:600;
+
+    letter-spacing:.5px;
+
+}
+
+.eyebrow i{
+
+    font-size:1.2rem;
 
 }
 
@@ -1612,15 +1653,6 @@ header {
     .section {
 
         padding: 70px 5%;
-
-    }
-
-
-
-
-    .nav-links {
-
-        display: none;
 
     }
 
