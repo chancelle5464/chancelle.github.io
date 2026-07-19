@@ -115,7 +115,8 @@ The portfolio includes:
 ---
 
 # 📂 Project Structure
-# chancelle.github.io/
+```
+chancelle.github.io/
 │
 ├── index.html
 ├── style.css
@@ -134,7 +135,7 @@ The portfolio includes:
 │ └── Chancelle_Ahinon_CV.pdf
 │
 └── README.md
-
+```
 ---
 
 # 🛡️ Featured Projects
@@ -342,14 +343,23 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
 Navigate into the project:
+```
 cd portfolio
+```
 Open:
+```
 index.html
+```
 or run a local server:
+```
 python -m http.server 8000
+```
 Then visit:
+```
 http://localhost:8000
+```
 📬 Contact
 Email
 rayp5464@gmail.com
