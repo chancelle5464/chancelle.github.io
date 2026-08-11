@@ -366,7 +366,7 @@ rayp5464@gmail.com
 LinkedIn
 (Add LinkedIn URL)
 GitHub
-(Add GitHub URL)
+(https://github.com/chancelle5464/)
 ⭐ Support
 If you find this portfolio interesting, feel free to ⭐ the repository or connect with me.
 © 2026 Chancelle Ahinon
