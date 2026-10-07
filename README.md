@@ -364,7 +364,7 @@ http://localhost:8000
 Email
 (rayp5464@gmail.com)
 LinkedIn
-(in/fifamè-chancelle-ahinon)
+(https://in/fifamè-chancelle-ahinon)
 GitHub
 (https://github.com/chancelle5464/)
 ⭐ Support
