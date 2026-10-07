@@ -364,9 +364,9 @@ http://localhost:8000
 Email
 rayp5464@gmail.com
 LinkedIn
-(Add LinkedIn URL)
+in/fifamè-chancelle-ahinon
 GitHub
-(https://github.com/chancelle5464/)
+https://github.com/chancelle5464/
 ⭐ Support
 If you find this portfolio interesting, feel free to ⭐ the repository or connect with me.
 © 2026 Chancelle Ahinon
